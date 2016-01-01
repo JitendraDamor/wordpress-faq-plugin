@@ -1,0 +1,2 @@
+# wordpress-faq-plugin
+plugin
